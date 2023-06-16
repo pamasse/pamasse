@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+hi npm regostry, little message to link my past professional experience at afnic (pamasse@afnic.fr) and this github account. 
+
+thanks in advance for the reset or change of the email. 
+
+best regards 
+
 <!--
 **pamasse/pamasse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
