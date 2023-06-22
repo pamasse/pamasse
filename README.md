@@ -1,8 +1,5 @@
 ### Hi there 👋
-
-hi npm regostry, little message to link my past professional experience at afnic (pamasse@afnic.fr) and this github account. 
-
-thanks in advance for the reset or change of the email. 
+ 
 
 best regards 
 
